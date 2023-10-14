@@ -1,0 +1,6 @@
+Invoking command in '/home/joshua/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/joshua/arduinobot_ws/src/arduinobot_cpp_example -DCMAKE_INSTALL_PREFIX=/home/joshua/arduinobot_ws/install/arduinobot_cpp_example
+Invoked command in '/home/joshua/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake /home/joshua/arduinobot_ws/src/arduinobot_cpp_example -DCMAKE_INSTALL_PREFIX=/home/joshua/arduinobot_ws/install/arduinobot_cpp_example
+Invoking command in '/home/joshua/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joshua/arduinobot_ws/build/arduinobot_cpp_example -- -j2 -l2
+Invoked command in '/home/joshua/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --build /home/joshua/arduinobot_ws/build/arduinobot_cpp_example -- -j2 -l2
+Invoking command in '/home/joshua/arduinobot_ws/build/arduinobot_cpp_example': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joshua/arduinobot_ws/build/arduinobot_cpp_example
+Invoked command in '/home/joshua/arduinobot_ws/build/arduinobot_cpp_example' returned '0': CMAKE_PREFIX_PATH=/opt/ros/humble /usr/bin/cmake --install /home/joshua/arduinobot_ws/build/arduinobot_cpp_example
